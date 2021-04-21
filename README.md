@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 This is a next.js hulu clone made with tmdb api it has server side rendering and lazy-loading and is hosted on Vercel
 
 
